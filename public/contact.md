@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Contact
+title: Contact Information
 ---
 
 <nav style="margin-bottom: 15px;">
@@ -13,9 +13,8 @@ title: Contact
     <a href="/public/contact">Contact</a>
 </nav>
 
-# Contact
+# Contact Information
 
 If you would like to contact me regarding questions ... or employment:
-* Location: Paradise, Nova Scotia, Canada
-* Phone: +1 (902) 840-0446
-* Email: ... (create a professional email with signature)
+* Location: Annapolis Valley, Nova Scotia, Canada
+* Email: leon.wasiliew.it@gmail.com
