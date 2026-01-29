@@ -4,7 +4,7 @@ layout: default
 title: Home
 ---
 
-<nav style="argin-bottom: 15px;">
+<nav style="margin-bottom: 15px;">
     <a href="/public/about">About</a> |
     <a href="/public/skills">Skills</a> |
     <a href="/public/projects">Projects</a> |
