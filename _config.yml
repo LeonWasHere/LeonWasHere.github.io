@@ -1,3 +1,16 @@
+title: "Leon Wasiliew - IT Portfolio"
+description: "IT Programming student specializing in software development and cybersecurity."
 theme: jekyll-theme-minimal
-title: Leon's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+# Navigation
+nav:
+  - name: "About"
+    link: "/public/about"
+  - name: "Skills"
+    link: "/public/skills"
+  - name: "Projects"
+    link: "/public/projects"
+  - name: "Resume"
+    link: "/public/resume"
+  - name: "Contact"
+    link: "/public/contact"
