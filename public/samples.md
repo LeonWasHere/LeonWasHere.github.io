@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Home
+title: Samples
 ---
 
 <nav style="margin-bottom: 15px;">
@@ -13,6 +13,4 @@ title: Home
     <a href="/public/contact">Contact</a>
 </nav>
 
-# Welcome
-
-My name is Leon Wasiliew, and I am an IT Programming student at NSCC's Centre of Geographic Sciences (COGS). You are welcome to explore my portfolio.
+# Samples
