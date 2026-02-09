@@ -10,6 +10,7 @@ title: Home
     <a href="/public/projects">Projects</a> |
     <a href="/public/samples">Samples</a> |
     <a href="/public/documentation">Documentation</a> |
+    <a href="/public/reflection">Reflection</a> |
     <a href="/public/contact">Contact</a>
 </nav>
 
