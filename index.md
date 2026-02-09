@@ -14,6 +14,9 @@ title: Home
     <a href="/public/contact">Contact</a>
 </nav>
 
+<p align="center">
+    <img src="./public/resources/GitHub_Picture_LW.png" alt="Leon Wasiliew" style="width:200px;border-radius:50%; margin-top:15px;">
+</p>
 # Welcome
 
 My name is Leon Wasiliew, and I am an IT Programming student at NSCC's Centre of Geographic Sciences (COGS). You are welcome to explore my portfolio.
