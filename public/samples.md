@@ -18,7 +18,7 @@ title: Samples
 
 ### MOBI3002 - Cake Ordering App
 - **Kotlin Code Snippet (MenuScreen.kt):**
-{% raw %} 
+{% raw %}
 ```kotlin
 /**
  * Author: Leon Wasiliew
@@ -129,13 +129,13 @@ fun MenuScreen(viewModel: CakeViewModel, navController: NavHostController) {
     }
 }
 ```
-{% endraw %} 
+{% endraw %}
 
 ---
 
 ### INET2005 - Inventory Management System
 - **PHP Code Snippet (ProductController.php):**
-{% raw %}  
+{% raw %}
 ```php
 <?php
 
@@ -279,13 +279,13 @@ class ProductController extends Controller
     }
 }
 ```
-{% endraw %} 
+{% endraw %}
 
 ---
 
 ### PROG2200 - Snake Game
 - **Java Code Snippet:**
-{% raw %} 
+{% raw %}
 ```java
 /**
  * Author: Leon Wasiliew
@@ -552,7 +552,7 @@ public class Player {
     }
 }
 ```
-{% endraw %} 
+{% endraw %}
 
 ---
 
@@ -656,10 +656,10 @@ class Member {
 
 #endif
 ```
-{% endraw %} 
+{% endraw %}
 
 - **C++ Code Snippet (Member.cpp):**
-{% raw %} 
+{% raw %}
 ```cpp
 /**
  * Author: Leon Wasiliew
@@ -742,6 +742,6 @@ void Member::setContactInfo(const std::string &contactInfo) {
 	this->contactInfo = contactInfo;
 }
 ```
-{% endraw %} 
+{% endraw %}
 
 ---
