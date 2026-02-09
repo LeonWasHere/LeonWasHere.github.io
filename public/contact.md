@@ -18,4 +18,4 @@ title: Contact
 
 If you would like to reach out with questions, collaboration ideas, or employment ideas, you can contact me through:
 - **Email:** [leon.wasiliew.it@gmail.com](mailto:leon.wasiliew.it@gmail.com) 
-- **LinkedIn:** https://www.linkedin.com/in/leon-wasiliew-b84721327/
+- **LinkedIn:** [https://www.linkedin.com/in/leon-wasiliew-b84721327/](https://www.linkedin.com/in/leon-wasiliew-b84721327/)

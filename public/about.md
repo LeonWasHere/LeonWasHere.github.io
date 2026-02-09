@@ -18,7 +18,7 @@ title: About Me
 
 ## Profile Summary
 Hello, World! My name is Leon Wasiliew, and I am an IT Programmer with two years of experience in application development.
-**Location:** Nova Scotia, Canada
+- **Location:** Nova Scotia, Canada
 
 ---
 

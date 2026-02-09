@@ -21,7 +21,7 @@ title: Reflection
 ### MOBI3002 – Cake Ordering App
 - **Learned:** Gained experience using SQLite with Android, building database helpers, designing navigation flows, and considering UI/UX principles throughout the app.
 - **Challenges:** Ensuring modularity as the project grew, refining the UI for a smoother user experience, and managing the progression of features.
-- **Future Plans:** Use this project as a demo or boilerplate for future Android apps—especially for demonstrating navigation patterns, database handling, and MVVM concepts.
+- **Future Plans:** Use this project as a demo or boilerplate for future Android apps, especially for demonstrating navigation patterns, database handling, and MVVM concepts.
 
 ---
 
