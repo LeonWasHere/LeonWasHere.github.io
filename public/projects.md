@@ -22,14 +22,14 @@ title: Projects
 
 ### MOBI3002 - Cake Ordering App
 - **Description:** Android application where users can register or log in, browse a list of cakes, filter items, add cakes to a shopping cart, view items in the shopping cart, view the subtotal & total, and place an order that generates a receipt.
-- **Technologies:** Android Studio, Kotlin, JetPack Compose, SQLite, Krita
+- **Technologies:** Android Studio, Kotlin, Jetpack Compose, SQLite, Krita
 - **Type:** Individual
 - **Screenshot:** ![Cake Ordering App](./resources/MOBI3002_Project_Image.png)
 
 ---
 
 ### INET2005 - Inventory Management System
-- **Description:** Inventory Management SYstem built using Laravel Herd. Focus on MVVP architecture, includes CRUD operations for categories and items, connected to a web server and database.
+- **Description:** Inventory Management System built using Laravel Herd. Focus on MVVP architecture, includes CRUD operations for categories and items, connected to a web server and database.
 - **Technologies:** Laravel, HTML, PHP, Blade Templates, XAMPP
 - **Type:** Individual
 - **Screenshot:** ![Inventory Management System](./resources/INET2005_Project_Image.png)
@@ -38,14 +38,14 @@ title: Projects
 
 ### PROG2200 - Snake Game
 - **Description:** Extended version of Bro Code's Java Snake Game template. Added OOP improvements, asynchronous multiplayer features, and high-score tracking using file handling.
-- **Technologies:** Java Swing, JavaFX, Intellij IDEA, File Handling, OOP
+- **Technologies:** Java Swing, JavaFX, IntelliJ IDEA, File Handling, OOP
 - **Type:** Individual
 - **Screenshot:** ![Snake Game](./resources/PROG2200_Project_Image.png)
 
 ---
 
 ### PROG2100 - Library Management System
-- **Description:** C++ Library Management SYstem implementing OOP principles, header/source file separation, and file handling. Supports member registration (Free/Premium), borrowing books, and calculating dues.
+- **Description:** C++ Library Management System implementing OOP principles, header/source file separation, and file handling. Supports member registration (Free/Premium), borrowing books, and calculating dues.
 - **Technologies:** C++, Visual Studio Code, File Handling, OOP
 - **Type:** Individual
 - **Screenshot:** ![Library Management System](./resources/PROG2100_Project_Image.png)
@@ -82,7 +82,7 @@ title: Projects
 
 ### PROG1400 - OPP-Based Kirby Game
 - **Description:** Text-based game focused on demonstrating OOP inheritance principles. Uses the characters and bosses from Kirby's Epic Yarn including Fangora and Squashini.
-- **Technologies:** Java, Intellij IDEA, OOP
+- **Technologies:** Java, IntelliJ IDEA, OOP
 - **Type:** Individual
 - **Screenshot:** ![OPP-Based Kirby Game](./resources/PROG1400_Project_Image.png)
 

@@ -45,7 +45,7 @@ Throughout the years, I have become comfortable using:
 - Bootstrap
 - CodeLite
 - Docker
-- Intellij IDEA
+- IntelliJ IDEA
 - Jira
 - Laravel
 - Microsoft 365

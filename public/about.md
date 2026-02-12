@@ -70,7 +70,7 @@ I am aiming to specialize in Cybersecurity and Large Data, and I plan to pursue 
 ---
 
 ## Additional Information
-- I am fluent in ENglish and German, with a DELF B1 competency in French
+- I am fluent in English and German, with a DELF B1 competency in French
 - My hobbies include sports, walking, gaming, and working with electronics
 
 ---
