@@ -3,6 +3,7 @@
  Creation Date: 2026-04-08
  Modification Date: 2026-04-08
  Description: Entry point for the updated portfolio.
+ Utilizes Tailwind CSS for styling and includes modular sections for easy scalability.
 -->
 
 <!DOCTYPE html>
@@ -11,37 +12,106 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Leon Wasiliew - Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
+
+<!-- NSCC Color Coding -->
+<body class="bg-[#004780] text-gray-800">
+
     <!-- Header -->
-    <header>
-        <nav>
-            <a href="#about">About</a>
-            <a href="#skills">Skills</a>
-            <a href="#projects">Projects</a>
-            <a href="#samples">Samples</a>
-            <a href="#documentation">Documentation</a>
-            <a href="#reflection">Reflection</a>
-            <a href="#contact">Contact</a>
+    <header class="bg-white/90 backdrop-blur shadow-md sticky top-0 z-50">
+        <nav class="max-w-6xl mx-auto px-6 py-4 flex gap-6 text-lg font-medium">
+            <a href="#about" class="px-3 py-1 rounded-lg text-[#004780] hover:bg-[#004780] hover:text-[#FFFFFF] transition">About</a>
+            <a href="#skills" class="px-3 py-1 rounded-lg text-[#004780] hover:bg-[#004780] hover:text-[#FFFFFF] transition">Skills</a>
+            <a href="#achievements" class="px-3 py-1 rounded-lg text-[#004780] hover:bg-[#004780] hover:text-[#FFFFFF] transition">Achievements</a>
+            <a href="#projects" class="px-3 py-1 rounded-lg text-[#004780] hover:bg-[#004780] hover:text-[#FFFFFF] transition">Projects</a>
+            <a href="#documentation" class="px-3 py-1 rounded-lg text-[#004780] hover:bg-[#004780] hover:text-[#FFFFFF] transition">Documentation</a>
+            <a href="#reflection" class="px-3 py-1 rounded-lg text-[#004780] hover:bg-[#004780] hover:text-[#FFFFFF] transition">Reflection</a>
+            <a href="#contact" class="px-3 py-1 rounded-lg text-[#004780] hover:bg-[#004780] hover:text-[#FFFFFF] transition">Contact</a>
         </nav>
     </header>
-    <main>
+
+    <main class="max-w-6xl mx-auto p-6 space-y-10">
+
         <!-- About Section -->
-        <section id="about"></section>
+        <section id="about" class="scroll-mt-32">
+            <div class="bg-[#FFFFFF] shadow-lg rounded-2xl p-8">
+                <h2 class="text-3xl font-bold mb-4">About Me</h2>
+                <!-- Placeholder for about me content -->
+            </div>
+        </section>
+
         <!-- Skills Section -->
-        <section id="skills"></section>
+        <section id="skills" class="grid md:grid-cols-2 gap-8 scroll-mt-32">
+            <!-- Technical Skills -->
+            <div class="bg-[#FFFFFF] shadow-lg rounded-2xl p-8" id="technical-skills">
+                <h2 class="text-3xl font-bold text-[#004780] mb-6">Technical Skills</h2>
+                <!-- Placeholder for technical skills content -->
+            </div>
+
+            <!-- Soft Skills-->
+            <div class="bg-[#FFFFFF] shadow-lg rounded-2xl p-8 scroll-mt-32" id="soft-skills">
+                <h2 class="text-3xl font-bold text-[#004780] mb-6">Soft Skills</h2>
+                <!-- Placeholder for soft skills content -->
+            </div>
+        </section>
+
+        <!-- Achievements Section -->
+        <section id="achievements" class="space-y-6 scroll-mt-32">
+            <div class="bg-[#FFFFFF] shadow-lg rounded-2xl p-8">
+                <h2 class="text-3xl font-bold mb-4">Achievements</h2>
+                <!-- Placeholder for achievements content -->
+            </div>
+        </section>
+
         <!-- Projects Section -->
-        <section id="projects"></section>
-        <!-- Samples Section -->
-        <section id="samples"></section>
+        <section id="projects" class="space-y-6 scroll-mt-32">
+            <h2 class="text-3xl font-bold text-[#FFFFFF]">Projects</h2>
+
+            <!-- First Year Projects -->
+            <div class="bg-[#FFFFFF] shadow-lg rounded-2xl p-8">
+                <h3 class="text-3xl font-semibold mb-4">First Year Projects</h3>
+                <!-- Placeholder for first year projects content -->
+            </div>
+
+            <!-- Second Year Projects -->
+            <div class="bg-[#FFFFFF] shadow-lg rounded-2xl p-8">
+                <h3 class="text-3xl font-semibold mb-4">Second Year Projects</h3>
+                <!-- Placeholder for second year projects content -->
+            </div>
+        </section>
+
         <!-- Documentation Section -->
-        <section id="documentation"></section>
+        <section id="documentation" class="scroll-mt-32">
+            <div class="bg-[#FFFFFF] shadow-lg rounded-2xl p-8">
+                <h2 class="text-3xl font-bold mb-4">Documentation</h2>
+                <!-- Placeholder for documentation content -->
+            </div>
+        </section>
+
         <!-- Reflection Section -->
-        <section id="reflection"></section>
+        <section id="reflection" class="scroll-mt-32">
+            <div class="bg-[#FFFFFF] shadow-lg rounded-2xl p-8">
+                <h2 class="text-3xl font-bold mb-4">Reflection</h2>
+                <!-- Placeholder for reflection content-->
+            </div>
+        </section>
+
         <!-- Contact Section -->
-        <section id="contact"></section>
+        <section id="contact" class="scroll-mt-32">
+            <div class="bg-[#FFFFFF] shadow-lg rounded-2xl p-8">
+                <h2 class="text-3xl font-bold mb-4">Contact</h2>
+                <!-- Placeholder for contact content-->
+            </div>
+        </section>
+
     </main>
+
     <!-- Footer -->
-    <footer></footer>
+    <footer>
+        <div class="bg-white/90 backdrop-blur mt-16 py-6 text-center text-[#004780] text-sm font-medium shadow-inner">
+            &copy; 2026 Leon Wasiliew. All rights reserved.
+        </div>
+    </footer>
 </body>
 </html>
