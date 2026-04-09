@@ -35,9 +35,47 @@
 
         <!-- About Section -->
         <section id="about" class="scroll-mt-32">
-            <div class="bg-[#FFFFFF] shadow-lg rounded-2xl p-8">
-                <h2 class="text-3xl font-bold mb-4">About Me</h2>
-                <!-- Placeholder for about me content -->
+            <div class="bg-[#FFFFFF] shadow-lg rounded-2xl p-8 md:p-10">
+                <div class="flex flex-col md:flex-row items-center gap-8">
+
+                    <!-- Profile Image -->
+                     <div class="flex-shrink-0">
+                        <img src="./assets/images/Linkedin.png" alt="" class="w-48 h-48 object-cover rounded-2xl shadow-md border-4 border-[#004780]">
+                     </div>
+
+                     <!-- About Content -->
+                      <div class="flex-1">
+                        <!-- Name should be bold -->
+                        <h2 class="text-4xl font-bold text-[#004780] mb-3">Leon Wasiliew</h2>
+                        <p class="text-xl text-[#004780] b-6">
+                            IT Programming Student at NSCC | Learning Support
+                        </p>
+                        <div class="space-y-4 text-gray-700 leading-8 text-lg">
+                            <!-- Requires small top margin to space out -->
+                            <p class="mt-1">
+                                Hello, World! My name is Leon Wasiliew, and I am currently studying IT Programming at NSCC.
+                                I enjoy exploring new technologies and applying my skills to solve real-world problems.
+                            </p>
+
+                            <!-- Buttons -->
+                            <div class="flex flex-wrap gap-4 pt-4">
+                                <!-- GitHub Profile Button -->
+                                <a href="https://github.com/LeonWasHere"
+                                   target="_blank"
+                                   class="bg-[#004780] text-[#FFFFFF] px-4 py-2 rounded-xl font-medium shadow hover:bg-[#00345d] transition">
+                                   GitHub Profile
+                                </a>
+
+                                <!-- LinkedIn Profile Button -->
+                                <a href="./assets/documents/Leon_Wasiliew_Resume.pdf"
+                                   download
+                                   class="border-2 border-[#004780] text-[#004780] px-4 py-2 rounded-xl font-medium hover:bg-[#004780] hover:text-[#FFFFFF] transition">
+                                   Download Resume
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
 
