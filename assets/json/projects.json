@@ -2,132 +2,132 @@
     "secondYear": [
         {
             "course": "PROG3300 - Integrated Project for Programming",
-            "name": "S.I.R.E. (Simulated Incident Response Environment)",
+            "name": "SIRE - Simulated Incident Response Environment",
             "description": "Full-stack JavaScript web application capable of hosting administrators and users, allowing administrators to create and join sessions about simulated scenarios.",
             "techStack": ["JavaScript", "React", "Vite", "Node.js", "Express", "Socket.IO", "SQL", "JSON", "Visual Studio Code"],
-            "image": "...",
-            "gitHubLink": "...",
-            "sampleCodeLink": "..."
+            "image": "./assets/screenshots/SIRE-Simulated-Incident-Response-Environment.png",
+            "gitHubLink": "https://github.com/aelayette/sire-simulator",
+            "sampleCodeLink": "./assets/samples/SIRE-Simulated-Incident-Response-Environment-Sample-Code.md"
         },
         {
             "course": "ICOM3010 - Self-Directed Study",
             "name": "PROG1800 - Introduction to Embedded Systems - C++",
             "description": "Self-directed study project focused on gaining a foundational understanding of embedded systems and learning how C++ is applied in these environments.”",
             "techStack": ["C++", "Arduino", "Arduino IDE", "TinkerCad", "Wokwi", "Godbolt"],
-            "image": "...",
-            "gitHubLink": "...",
-            "sampleCodeLink": "..."
+            "image": "./assets/screenshots/PROG1800-Introduction-to-Embedded-Systems-Cpp.png",
+            "gitHubLink": "https://github.com/LeonWasHere/PROG1800-Introduction-to-Embedded-Systems-Cpp",
+            "sampleCodeLink": "./assets/samples/PROG1800-Introduction-to-Embedded-Systems-Cpp-Sample-Code.md"
         },
         {
             "course": "INFT4000 - Special Topics",
-            "name": "Cardgames (Gaigel)",
+            "name": "Cardgames Gaigel",
             "description": "Java project to create a card game from a reference Blackjack game that emphasizes object-oriented design and Continuous Integration/Continuous Deployment.",
             "techStack": ["Java", "IntelliJ IDEA", "JUnit", "GitHub Actions", "CI/CD"],
-            "image": "...",
-            "gitHubLink": "...",
-            "sampleCodeLink": "..."
+            "image": "./assets/screenshots/Cardgames-Gaigel.png",
+            "gitHubLink": "https://github.com/LeonWasHere/Cardgames-Gaigel",
+            "sampleCodeLink": "./assets/samples/Cardgames-Gaigel-Sample-Code.md"
         },
         {
             "course": "INFT4000 - Special Topics",
             "name": "Seed Growth Simulator",
             "description": "Spec-Driven Development project to create a seed growth simulator using JavaScript  with a focus on test-driven development and iterative feature implementation.",
             "techStack": ["JavaScript", "HTML", "CSS", "Playwright", "Jest", "Kiro Agentic Development Environment"],
-            "image": "...",
-            "gitHubLink": "...",
-            "sampleCodeLink": "..."
+            "image": "./assets/screenshots/Seed-Growth-Simulator.png",
+            "gitHubLink": "https://github.com/LeonWasHere/Seed-Growth-Simulator",
+            "sampleCodeLink": "./assets/samples/Seed-Growth-Simulator-Sample-Code.md"
         },
         {
             "course": "MOBI3002 - Mobile Application Development - Android",
             "name": "Cake Ordering Application",
             "description": "Android application where users can register or log in, browse a list of cakes, filter items, add cakes to a shopping cart, view items in the shopping cart, view the subtotal & total, and place an order that generates a receipt.",
             "techStack": ["Kotlin", "JetPack Compose", "Android Studio", "SQLite", "Krita"],
-            "image": "",
-            "gitHubLink": "",
-            "sampleCodeLink": ""
+            "image": "./assets/screenshots/Cake-Ordering-Application.png",
+            "gitHubLink": "https://github.com/LeonWasHere/Cake-Ordering-Application",
+            "sampleCodeLink": "./assets/samples/Cake-Ordering-Application-Sample-Code.md"
         },
         {
             "course": "PROG2100 - Programming in C++",
             "name": "Library Management System",
             "description": "C++ Library Management System implementing OOP principles, header/source file separation, and file handling. Supports member registration (Free/Premium), borrowing books, and calculating dues.",
             "techStack": ["C++", "Visual Studio Code", "CSV"],
-            "image": "...",
-            "gitHubLink": "...",
-            "sampleCodeLink": "..."
+            "image": "./assets/screenshots/Library-Management-System.png",
+            "gitHubLink": "https://github.com/LeonWasHere/Library-Management-System",
+            "sampleCodeLink": "./assets/samples/Library-Management-System-Sample-Code.md"
         },
         {
             "course": "PROG2200 - Advanced Topics in Programming",
             "name": "Snake Game",
             "description": "Extended version of Bro Code's Java Snake Game template. Added OOP improvements, asynchronous multiplayer features, and high-score tracking using file handling.",
             "techStack": ["Java Swing", "JavaFX", "IntelliJ IDEA"],
-            "image": "...",
-            "gitHubLink": "...",
-            "sampleCodeLink": "..."
+            "image": "./assets/screenshots/Snake-Game.png",
+            "gitHubLink": "https://github.com/LeonWasHere/Snake-Game",
+            "sampleCodeLink": "./assets/samples/Snake-Game-Sample-Code.md"
         },
         {
             "course": "INET2005 - Web Application Programming",
             "name": "Inventory Management System",
             "description": "Inventory Management System built using Laravel Herd. Focus on MVVP architecture, includes CRUD operations for categories and items, connected to a web server and database.",
             "techStack": ["Laravel", "HTML", "PHP", "Blade Templates", "XAMPP"],
-            "image": "...",
-            "gitHubLink": "...",
-            "sampleCodeLink": "..."
+            "image": "./assets/screenshots/Inventory-Management-System.png",
+            "gitHubLink": "https://github.com/LeonWasHere/Inventory-Management-System",
+            "sampleCodeLink": "./assets/samples/Inventory-Management-System-Sample-Code.md"
         }
     ],
 
     "firstYear": [
         {
             "course": "WEBD1000 - Website Development",
-            "name": "Lean & Green Eats Website",
+            "name": "Lean And Green Eats Website",
             "description": "Healthy eating website built as part of a three-person team project, including webpage development, styling, documentation, and integration.",
             "techStack": ["HTML", "CSS", "Visual Studio Code"],
-            "image": "",
-            "gitHubLink": "",
-            "sampleCodeLink": ""
+            "image": "./assets/screenshots/Lean-And-Green-Eats-Website.png",
+            "gitHubLink": "https://github.com/LeonWasHere/Lean-And-Green-Eats-Website",
+            "sampleCodeLink": "./assets/samples/Lean-And-Green-Eats-Website-Sample-Code.md"
         },
         {
             "course": "DBAS1007 - Data Fundamentals",
             "name": "Gaming Friends Database",
             "description": "Database design project involving ERD creation, entity relationships, and SQL scripts to automatically generate and populate the database.",
             "techStack": ["MySQL", "SQLite", "ERD", "CSV"],
-            "image": "",
-            "gitHubLink": "",
-            "sampleCodeLink": ""
+            "image": "./assets/screenshots/Gaming-Friends-Database.png",
+            "gitHubLink": "https://github.com/LeonWasHere/Gaming-Friends-Database",
+            "sampleCodeLink": "./assets/samples/Gaming-Friends-Database-Sample-Code.md"
         },
         {
             "course": "PROG1700 - Logic and Programming",
             "name": "Clinical Management System",
             "description": "CLI-based Python system supporting patient registration, doctor management, appointment scheduling, and report generation.",
             "techStack": ["Python", "Visual Studio Code", "CSV"],
-            "image": "",
-            "gitHubLink": "",
-            "sampleCodeLink": ""
+            "image": "./assets/screenshots/Clinical-Management-System.png",
+            "gitHubLink": "https://github.com/LeonWasHere/Clinical-Management-System",
+            "sampleCodeLink": "./assets/samples/Clinical-Management-System-Sample-Code.md"
         },
         {
             "course": "PROG1400 - Intro to Object-Oriented Programming",
             "name": "Object-Oriented Kirby Game",
             "description": "Text-based Java game demonstrating inheritance and object-oriented design using characters and bosses from Kirby's Epic Yarn.",
             "techStack": ["Java", "IntelliJ IDEA", "UML Class Diagrams"],
-            "image": "",
-            "gitHubLink": "",
-            "sampleCodeLink": ""
+            "image": "./assets/screenshots/Object-Oriented-Kirby-Game.png",
+            "gitHubLink": "https://github.com/LeonWasHere/Object-Oriented-Kirby-Game",
+            "sampleCodeLink": "./assets/samples/Object-Oriented-Kirby-Game-Sample-Code.md"
         },
         {
             "course": "PROG2007 - Programming in C",
             "name": "CLI To-Do Application",
             "description": "Command-line task manager written in C supporting task creation, editing, deletion, and filtering for due and overdue tasks.",
             "techStack": ["C", "Visual Studio Code", "CSV"],
-            "image": "",
-            "gitHubLink": "",
-            "sampleCodeLink": ""
+            "image": "./assets/screenshots/CLI-To-Do-Application.png",
+            "gitHubLink": "https://github.com/LeonWasHere/CLI-To-Do-Application",
+            "sampleCodeLink": "./assets/samples/CLI-To-Do-Application-Sample-Code.md"
         },
         {
             "course": "PROG2700 - Client-Side Programming",
             "name": "GUI To-Do Application",
             "description": "Graphical to-do list application with features for adding, editing, completing, and deleting tasks using a modern frontend interface.",
             "techStack": ["HTML", "CSS", "JavaScript", "React", "Visual Studio Code"],
-            "image": "",
-            "gitHubLink": "",
-            "sampleCodeLink": ""
+            "image": "./assets/screenshots/GUI-To-Do-Application.png",
+            "gitHubLink": "https://github.com/LeonWasHere/GUI-To-Do-Application",
+            "sampleCodeLink": "./assets/samples/GUI-To-Do-Application-Sample-Code.md"
         }
     ]
 }
