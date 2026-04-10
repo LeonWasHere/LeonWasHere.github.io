@@ -109,4 +109,4 @@ function renderAllProjects(projects, containerId) {
 }
 
 // Initializes the project loading process
-document.addEventListener("DOMContentLoaded", loadProjects);
+document.addEventListener("DOMContentLoaded", loadAllProjects);
