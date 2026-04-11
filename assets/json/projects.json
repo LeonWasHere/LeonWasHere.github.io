@@ -7,7 +7,7 @@
             "techStack": ["JavaScript", "React", "Vite", "Node.js", "Express", "Socket.IO", "SQL", "JSON", "Visual Studio Code"],
             "image": "./assets/screenshots/SIRE-Simulated-Incident-Response-Environment.png",
             "gitHubLink": "https://github.com/aelayette/sire-simulator",
-            "sampleCodeLink": "./assets/samples/SIRE-Simulated-Incident-Response-Environment-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/SIRE-Simulated-Incident-Response-Environment.md"
         },
         {
             "course": "ICOM3010 - Self-Directed Study",
@@ -16,7 +16,7 @@
             "techStack": ["C++", "Arduino", "Arduino IDE", "TinkerCad", "Wokwi", "Godbolt"],
             "image": "./assets/screenshots/PROG1800-Introduction-to-Embedded-Systems-Cpp.png",
             "gitHubLink": "https://github.com/LeonWasHere/PROG1800-Introduction-to-Embedded-Systems-Cpp",
-            "sampleCodeLink": "./assets/samples/PROG1800-Introduction-to-Embedded-Systems-Cpp-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/PROG1800-Introduction-to-Embedded-Systems-Cpp.md"
         },
         {
             "course": "INFT4000 - Special Topics",
@@ -25,7 +25,7 @@
             "techStack": ["Java", "IntelliJ IDEA", "JUnit", "GitHub Actions", "CI/CD"],
             "image": "./assets/screenshots/Cardgames-Gaigel.png",
             "gitHubLink": "https://github.com/LeonWasHere/Cardgames-Gaigel",
-            "sampleCodeLink": "./assets/samples/Cardgames-Gaigel-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/Cardgames-Gaigel.md"
         },
         {
             "course": "INFT4000 - Special Topics",
@@ -34,7 +34,7 @@
             "techStack": ["JavaScript", "HTML", "CSS", "Playwright", "Jest", "Kiro Agentic Development Environment"],
             "image": "./assets/screenshots/Seed-Growth-Simulator.png",
             "gitHubLink": "https://github.com/LeonWasHere/Seed-Growth-Simulator",
-            "sampleCodeLink": "./assets/samples/Seed-Growth-Simulator-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/Seed-Growth-Simulator.md"
         },
         {
             "course": "MOBI3002 - Mobile Application Development - Android",
@@ -43,7 +43,7 @@
             "techStack": ["Kotlin", "JetPack Compose", "Android Studio", "SQLite", "Krita"],
             "image": "./assets/screenshots/Cake-Ordering-Application.png",
             "gitHubLink": "https://github.com/LeonWasHere/Cake-Ordering-Application",
-            "sampleCodeLink": "./assets/samples/Cake-Ordering-Application-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/Cake-Ordering-Application.md"
         },
         {
             "course": "PROG2100 - Programming in C++",
@@ -52,7 +52,7 @@
             "techStack": ["C++", "Visual Studio Code", "CSV"],
             "image": "./assets/screenshots/Library-Management-System.png",
             "gitHubLink": "https://github.com/LeonWasHere/Library-Management-System",
-            "sampleCodeLink": "./assets/samples/Library-Management-System-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/Library-Management-System.md"
         },
         {
             "course": "PROG2200 - Advanced Topics in Programming",
@@ -61,7 +61,7 @@
             "techStack": ["Java Swing", "JavaFX", "IntelliJ IDEA"],
             "image": "./assets/screenshots/Snake-Game.png",
             "gitHubLink": "https://github.com/LeonWasHere/Snake-Game",
-            "sampleCodeLink": "./assets/samples/Snake-Game-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/Snake-Game.md"
         },
         {
             "course": "INET2005 - Web Application Programming",
@@ -70,7 +70,7 @@
             "techStack": ["Laravel", "HTML", "PHP", "Blade Templates", "XAMPP"],
             "image": "./assets/screenshots/Inventory-Management-System.png",
             "gitHubLink": "https://github.com/LeonWasHere/Inventory-Management-System",
-            "sampleCodeLink": "./assets/samples/Inventory-Management-System-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/Inventory-Management-System.md"
         }
     ],
 
@@ -82,7 +82,7 @@
             "techStack": ["HTML", "CSS", "Visual Studio Code"],
             "image": "./assets/screenshots/Lean-And-Green-Eats-Website.png",
             "gitHubLink": "https://github.com/LeonWasHere/Lean-And-Green-Eats-Website",
-            "sampleCodeLink": "./assets/samples/Lean-And-Green-Eats-Website-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/Lean-And-Green-Eats-Website.md"
         },
         {
             "course": "DBAS1007 - Data Fundamentals",
@@ -91,7 +91,7 @@
             "techStack": ["MySQL", "SQLite", "ERD", "CSV"],
             "image": "./assets/screenshots/Gaming-Friends-Database.png",
             "gitHubLink": "https://github.com/LeonWasHere/Gaming-Friends-Database",
-            "sampleCodeLink": "./assets/samples/Gaming-Friends-Database-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/Gaming-Friends-Database.md"
         },
         {
             "course": "PROG1700 - Logic and Programming",
@@ -100,7 +100,7 @@
             "techStack": ["Python", "Visual Studio Code", "CSV"],
             "image": "./assets/screenshots/Clinical-Management-System.png",
             "gitHubLink": "https://github.com/LeonWasHere/Clinical-Management-System",
-            "sampleCodeLink": "./assets/samples/Clinical-Management-System-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/Clinical-Management-System.md"
         },
         {
             "course": "PROG1400 - Intro to Object-Oriented Programming",
@@ -109,7 +109,7 @@
             "techStack": ["Java", "IntelliJ IDEA", "UML Class Diagrams"],
             "image": "./assets/screenshots/Object-Oriented-Kirby-Game.png",
             "gitHubLink": "https://github.com/LeonWasHere/Object-Oriented-Kirby-Game",
-            "sampleCodeLink": "./assets/samples/Object-Oriented-Kirby-Game-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/Object-Oriented-Kirby-Game.md"
         },
         {
             "course": "PROG2007 - Programming in C",
@@ -118,7 +118,7 @@
             "techStack": ["C", "Visual Studio Code", "CSV"],
             "image": "./assets/screenshots/CLI-To-Do-Application.png",
             "gitHubLink": "https://github.com/LeonWasHere/CLI-To-Do-Application",
-            "sampleCodeLink": "./assets/samples/CLI-To-Do-Application-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/CLI-To-Do-Application.md"
         },
         {
             "course": "PROG2700 - Client-Side Programming",
@@ -127,7 +127,7 @@
             "techStack": ["HTML", "CSS", "JavaScript", "React", "Visual Studio Code"],
             "image": "./assets/screenshots/GUI-To-Do-Application.png",
             "gitHubLink": "https://github.com/LeonWasHere/GUI-To-Do-Application",
-            "sampleCodeLink": "./assets/samples/GUI-To-Do-Application-Sample-Code.md"
+            "sampleCodeLink": "./assets/samples/GUI-To-Do-Application.md"
         }
     ]
 }
