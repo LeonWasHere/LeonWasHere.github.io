@@ -1,3 +1,9 @@
+# Inventory Management System
+
+## Sample
+This section represents the ProductController in a Laravel-based Inventory Management System. It handles core CRUD operations for products, including creating, reading, updating, and deleting records. It also manages form validation, category relationships, and image upload handling for product records.
+
+---
 ```php
 <?php
 
@@ -141,3 +147,4 @@ class ProductController extends Controller
     }
 }
 ```
+---

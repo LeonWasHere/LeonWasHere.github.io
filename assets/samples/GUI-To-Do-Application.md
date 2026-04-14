@@ -1,3 +1,9 @@
+# GUI To-Do Application
+
+## Sample
+This section represents the main React component of the GUI To-Do application. It manages the application state using the useState hook, handles adding, deleting, and modifying tasks, and coordinates data flow between the TaskField input component and the TaskList display component.
+
+---
 ```js
 /**
  * Class: PROG2700 (JavaScript)
@@ -68,3 +74,4 @@ export default App;
 8. React Shortcuts - IMPORTANT: https://dev.to/roshdiraed/important-shortcuts-in-react-you-must-know-it--1ek5
 */
 ```
+---

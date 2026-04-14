@@ -1,3 +1,9 @@
+# Cake Ordering Appliaction
+
+## Sample
+The Cake data model is used to represent individual cake items in the application. It stores the cake’s ID, name, price, and image resource, and is used across the menu and order screens.
+
+---
 ```kotlin
 /**
  * Author: Leon Wasiliew
@@ -20,3 +26,4 @@ data class Cake(
     val resource: Int // Stores the image resource ID
 )
 ```
+---

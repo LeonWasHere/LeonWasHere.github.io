@@ -1,3 +1,9 @@
+# Cardgames Gaigel
+
+## Sample
+The Rank enum represents the different card ranks used in the game Gaigel, along with their display names and point values.
+
+---
 ```java
 package com.leon.cardgames;
 
@@ -37,3 +43,4 @@ public enum Rank {
     }
 }
 ```
+---

@@ -1,3 +1,9 @@
+# CLI To-Do Application
+
+## Sample
+The main entry point of the application that controls program execution. It manages the menu system, processes user input, and calls task-related functions to add, display, modify, and delete tasks.
+
+---
 ```c
 /*
 PROG2007 
@@ -122,3 +128,4 @@ int main() {
 }
 //=================================================================================================================================================
 ```
+---
