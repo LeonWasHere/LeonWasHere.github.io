@@ -1,3 +1,9 @@
+# Library Management System
+
+## Sample
+This section represents the implementation of the Book base class in the Library Management System. It defines the core attributes of a book, including ID, ISBN, title, author, genre, publication date, and publisher details, and provides encapsulated getter and setter methods. It also supports polymorphism through a virtual destructor for proper cleanup of derived classes.
+
+---
 ```cpp
 /**
  * Author: Leon Wasiliew
@@ -108,3 +114,4 @@ void Book::setPublisherDetails(const std::string &publisherDetails) {
     this->publisherDetails = publisherDetails;
 }
 ```
+---

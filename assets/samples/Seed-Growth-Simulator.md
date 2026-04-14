@@ -1,3 +1,9 @@
+# Seed Growth Simulator
+
+## Sample
+This section represents the core data model for the Seed Growth Simulator. It defines foundational classes used to simulate 2D seed behavior, including a Point class for coordinate representation and a Seed class that manages position, visual properties, and interaction logic such as collision detection and point containment.
+
+---
 ```js
 /**
  * Developer: Leon Wasiliew
@@ -54,3 +60,4 @@ class Seed {
     }
 }
 ```
+---

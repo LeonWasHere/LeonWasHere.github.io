@@ -1,3 +1,9 @@
+# Snake Game
+
+## Sample
+This section represents the Player class in a Snake game, which manages the snake’s body, movement, growth, scoring, and collision detection. It maintains the snake as a list of coordinate points and implements game logic such as directional movement, boundary and self-collision checks, and rendering the snake on the screen.
+
+---
 ```java
 /**
  * Author: Leon Wasiliew
@@ -264,3 +270,4 @@ public class Player {
     }
 }
 ```
+---

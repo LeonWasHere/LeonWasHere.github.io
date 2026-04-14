@@ -1,3 +1,9 @@
+# Object-Oriented Kirby Game
+
+## Sample
+This section represents the abstract Player superclass used in the Object-Oriented Kirby game. It defines shared behavior and structure for all player types, including common actions such as jumping, ducking, and attacking, while enforcing abstract methods for movement and boss interactions that must be implemented by subclasses.
+
+---
 ```java
 /**
  * Player.java
@@ -38,3 +44,4 @@ public abstract class Player {
     }
 }
 ```
+---

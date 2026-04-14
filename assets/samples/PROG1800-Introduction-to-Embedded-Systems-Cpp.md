@@ -1,3 +1,9 @@
+# PROG1800 - Introduction to Embedded Systems - C++
+
+## Sample
+This section represents an embedded C++ program that controls a DC motor using a potentiometer and a push button. It reads analog input to select between operating modes and uses digital input to trigger motor activation. The system generates different PWM pulse patterns based on the selected mode.
+
+---
 ```cpp
 /**
  * Author: Leon Wasiliew
@@ -62,3 +68,4 @@ void loop() {
   }
 }
 ```
+---

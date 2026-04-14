@@ -1,3 +1,9 @@
+# Gaming Friends Database
+
+## Sample
+This section contains the database schema for the Gaming Friends system. It defines the structure of the database, including table creation, relationships between entities using primary and foreign keys, and many-to-many mapping tables for game statistics and teams.
+
+---
 ```sql
 /*******************************************************************************
    StudentId: W0496661
@@ -190,3 +196,4 @@ CREATE TABLE GamerProfiles
         ON DELETE RESTRICT ON UPDATE CASCADE 
 );
 ```
+---

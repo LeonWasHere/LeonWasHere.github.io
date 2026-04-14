@@ -1,3 +1,9 @@
+# Clinical Management System
+
+## Sample
+This section represents the Reports menu of the Clinical Management System. It provides a user interface that allows navigation through different reporting options, including viewing all patients, searching for a specific patient, and displaying appointment records. It also controls program flow by handling user input and calling the appropriate functions based on the selected option.
+
+---
 ```python
 # Class: PROG1700 
 # Topic: Clinical Management System
@@ -110,3 +116,4 @@ def all_appointments():
         print("File Not Found Error:")
         print("The file 'AppointmentMaster.txt' has not been found!")
 ```
+---

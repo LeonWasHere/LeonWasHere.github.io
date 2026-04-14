@@ -1,3 +1,9 @@
+# Lean And Green Eats Website
+
+## Sample
+This section represents a student health page of the Lean And Green Eats website. It contains HTML content including informational sections about student nutrition and mental health, a navigation header, and an interactive survey form that collects user input using various form elements such as dropdowns, radio buttons, text fields, and range inputs.
+
+---
 ```html
 <!Doctype html>
 <html lang="en">
@@ -254,3 +260,4 @@
 </body>
 </html>
 ```
+---

@@ -1,3 +1,9 @@
+# SIRE - SImulated Incident Response Environment
+
+## Sample
+This section represents the Home layout component of the SIRE (Simulated Incident Response Environment) application. It defines a responsive split-screen structure using Material UI, where the left panel contains branding, navigation elements, and informational content, while the right panel displays the main carousel content passed as children components.
+
+---
 ```js
 /** 
  * Author: Leon Wasiliew 
@@ -59,3 +65,4 @@ export default function HomeLayout({ children }) {
     );
 }
 ```
+---
